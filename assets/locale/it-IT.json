@@ -1,0 +1,22 @@
+{
+  "yes": "Si",
+  "no": "No",
+  "something_wrong": "Oops... qualcosa è andato storto!",
+  "random": "CASUALE",
+  "latest_comic": "Nuovi fumetti",
+  "explain_current": "Descrivi fumetto corrente",
+  "my_favorites": "I miei favoriti",
+  "settings": "Opzioni",
+  "images": "Immagini",
+  "data_saver": "Data saver",
+  "data_saver_explain": "Fornisci i fumetti in bassa risoluzione",
+  "auto_download": "Scarica le immagini automaticamente",
+  "high_res": "Scarica le immagini ad alta risoluzione",
+  "favorites": "Preferiti",
+  "nothing_here": "Ancora niente da vedere",
+  "favorite_removed": "rimosso dai preferiti",
+  "clear_favorites": "Pulisci preferiti",
+  "about": "A proposito",
+  "about_this_app": "a proposito di questa app",
+  "built_by": "Creata con ❤ e Flutter da Kosta Stoupas. Icone launcher da Papirus Development Team."
+}
